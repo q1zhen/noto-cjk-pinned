@@ -93,4 +93,4 @@ def build(style):
 
 if __name__ == "__main__":
 	build("Sans")
-	# build("Serif")
+	build("Serif")
