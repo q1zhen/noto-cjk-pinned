@@ -19,8 +19,8 @@ Currently, variable TTFs are provided:
 ||Sans "Pinned"|Serif "Pinned"|
 |:-:|:-:|:-:|
 |**SC 简体中文**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKSCPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKSCPinned.ttf)|
-|**TC 繁體中文—臺灣**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKTCPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKTCPinned.ttf)|
-|**HK 繁體中文—香港**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKHKPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKHKPinned.ttf)|
+|**TC 繁中臺灣**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKTCPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKTCPinned.ttf)|
+|**HK 繁中香港**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKHKPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKHKPinned.ttf)|
 |**JP 日本語**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKJPPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKJPPinned.ttf)|
 |**KR 한국어**|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Sans/NotoSansCJKKRPinned.ttf)|[TTF](https://github.com/q1zhen/noto-cjk-pinned/raw/refs/heads/main/Serif/NotoSerifCJKKRPinned.ttf)|
 
